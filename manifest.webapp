@@ -17,6 +17,9 @@
     "name": "Robert Nyman",
     "url": "http://robertnyman.com"
   },
+  "installs_allowed_from": [
+    "https://raw.githack.com"
+  ],
   "default_locale": "en",
   "permissions": {
     "desktop-notification": {
